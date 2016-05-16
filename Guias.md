@@ -1,6 +1,6 @@
 #Guías del Makernel
 
-##Areas cognitivas
+##Areas de aprendizaje
 
 * Creatividad
 * Computación y Razonamiento
