@@ -25,3 +25,11 @@ El MaKernel utiliza diferentes herramientas para aprender sobre la computación,
 Con cada software dentro del RaspberryPI, hay una colección de guías que pretenden ser instigadoras y activadoras de aprendizaje autónomo
 
 ##Máquinas
+
+##Percepción y Expresión
+
+##Fabricación
+
+##Interactividad
+
+##Movimiento
