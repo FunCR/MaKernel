@@ -25,8 +25,6 @@ El MaKernel resuelve la educación a través de la comunidad, al facilitar objet
 
 Es adaptable a necesidades, permiten expandir su contenido, la caja es simple y con el doble propósito de contener y convertirse en mesa de trabajo.
 
-MATERIALES y EQUIPO
-
 * Dual purpose box (armario/mesa)					1 und
 * Printrbot Play 3D Printer							1 und
 * Little Bits basic kit								2 und
@@ -43,7 +41,7 @@ MATERIALES y EQUIPO
   * 1x 9V Barrel Jack Cable
   * 1x Screwdriver
   * 1x motorMate
-* Full-color Instruction Booklet
+  * Full-color Instruction Booklet
 * Arduino Starter Kit								3 und
   * 1 x Official Arduino Uno - R3 
   * 1 x Laser-cut Arduino and Breadboard Holder
