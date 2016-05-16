@@ -20,3 +20,5 @@ El MaKernel no es sólo dar recursos, es crear un ambiente que facilita un nuevo
 El MaKernel es un sistema fácilmente replicable.  Sus herramientas son de bajo costo y tan accesible, que cualquier comunidad decidida puede realizar actividades para auto-financiar un MaKernel. De la misma comunidad abierta emergerán los instructores, y estos serán lo que aceleren el proceso.  
 
 El MaKernel resuelve la educación a través de la comunidad, al facilitar objetos educacionales que pueden ser accesados por profesores y estudiantes,al permitir el intercambio de destrezas, ejecutando proyectos propios y comunitarios, y al permitir autoformación de instructores informales, que al ganar experiencia con los contenidos de la caja, comienzan a crear eventos de instrucción propios.
+
+<a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/"><img alt="Licencia de Creative Commons" style="border-width:0" src="https://i.creativecommons.org/l/by-nc/4.0/88x31.png" /></a><br />Este obra está bajo una <a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/">licencia de Creative Commons Reconocimiento-NoComercial 4.0 Internacional</a>.
