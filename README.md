@@ -1,5 +1,9 @@
 # MaKernel
 
+<a href="https://www.youtube.com/watch?v=7O9nCXKZr5c" target="_blank"><img src="http://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg" 
+alt="Makernel" width="240" height="180" border="10" /></a>
+
+
 Con el internet y la world wide web, la información se transformó en dominio público. Pasó de ser algo que solamente existía en bibliotecas y universidades, a un espacio infinito donde cualquier ciudadano con conexión podría no solamente acceder información, sino generarla y publicarla.  No solamente eso, sino que además, la superestructura del internet, ha creado un espacio que no puede ser controlado ni política, ni comercial, ni socialmente y que permite a cualquier ciudadano del mundo ser parte de movimientos transformadores.  
 
 Pero la revolución tecnológica no se ha detenido allí. En los últimos 10 años, con la popularización de la impresión 3D, y la aparición de plataformas como el Arduino, también se ha democratizado la tecnología y los medios de producción. La aparición de espacios donde las herramientas de fabricación y producción estaban disponibles se hizo notorio, y hoy en día en muchos países hay makerspaces, fablabs y hackerspaces.  Sin embargo, muchos de estos no son de dominio público. Se encuentran encerrados en universidades, centros de investigación o espacios formales, que aunque a veces abiertos, no llegan a todas las comunidades, sino que están pensadas para estudiantes o sectores particulares de la población. Muchas comunidades no tienen acceso real a estos espacios, y por tanto están limitados a poder descubrir nuevas formas de desarrollar tecnología. ¿La solución? que cualquier espacio se pueda convertir en un makerspace.
