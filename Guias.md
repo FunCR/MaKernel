@@ -18,7 +18,7 @@
 El MaKernel utiliza diferentes herramientas para aprender sobre la computación, sobre computacoras, informática y matemáticas. Como foco, utiliza el RaspberryPI. Dento de RPI, se utlizan los siguientes programas
 
 * Mathematica
-* Scracth
+* Scratch
 * Python
 * Processing
 
