@@ -21,4 +21,99 @@ El MaKernel es un sistema fácilmente replicable.  Sus herramientas son de bajo 
 
 El MaKernel resuelve la educación a través de la comunidad, al facilitar objetos educacionales que pueden ser accesados por profesores y estudiantes,al permitir el intercambio de destrezas, ejecutando proyectos propios y comunitarios, y al permitir autoformación de instructores informales, que al ganar experiencia con los contenidos de la caja, comienzan a crear eventos de instrucción propios.
 
+##Contenidos
+
+Es adaptable a necesidades, permiten expandir su contenido, la caja es simple y con el doble propósito de contener y convertirse en mesa de trabajo.
+
+MATERIALES y EQUIPO
+
+* Dual purpose box (armario/mesa)					1 und
+* Printrbot Play 3D Printer							1 und
+* Little Bits basic kit								2 und
+  * 1x DC Motor Bit
+  * 1x Buzzer Bit
+  * 1x Light Sensor Bit
+  * 1x Bargraph Bit
+  * 1x Button Bit
+  * 1x Dimmer Bit
+  * 1x Bright LED Bit
+  * 1x Battery Power Bit
+  * 2x Wire Bit
+  * 1x 9V Alkaline Battery
+  * 1x 9V Barrel Jack Cable
+  * 1x Screwdriver
+  * 1x motorMate
+* Full-color Instruction Booklet
+* Arduino Starter Kit								3 und
+  * 1 x Official Arduino Uno - R3 
+  * 1 x Laser-cut Arduino and Breadboard Holder
+  * 1 x Clear Breadboard (8.3 x 5.5 cm)
+  * 1 x LED - RGB Addressable, PTH 5MM Clear (1 LED RGB)
+  * 1 x Buzzer- PC Mount 12mm 2.048kHz
+  * 1 x Trimpot 10K with Knob
+  * 1 x TMP36 - Temperature Sensor
+  * 1 x TowerPro SG-92R Micro Servo
+  * 4 x Mini Push Button Switch
+  * Various  Breadboard Jumper Wires 
+  * 1 x Electronic Brick - 5V Relay
+  * 1 x Tilt Sensor 
+  * 1 x Mini Photocell (Light Sensor)
+  * 1 x USB Cable A to B - 6 foot
+  * 1 x 1602 LCD Keypad Shield for Arduino
+  * 8 x Red, Blue, Yellow, and Green LEDs
+  * Various 330 and 10K Resistors
+* Inventoría Sensor KIT							2 und
+  * 1 x 1602 LCD Keypad Shield for Arduino
+  * 1 x Electronic Brick - Touch Sensor
+  * 1 x Electronic Brick - Track Sensor
+  * 1 x Electronic Brick - Light Sensor
+  * 1 x Electronic Brick - Magnetic Sensor Switch
+  * 1 x Electronic Brick - MQ-2 Gas Sensor
+  * 1 x Eleectronc Brick - DS18B20 1-Wire Digital Thermometer
+  * 1 x Ultrasonic Range Finder HC-SR04
+  * 1 x Electronic Brick - 5V Relay
+  * 5 x 3Pin cable for sensors
+  * 4 x Female to Female Jumper cables
+*Inventoría Robot Kit							3 und
+  * S4A EDU Robotic Controller
+  * 2 x Gear Motor DG01D
+  * PLA Filament (Printrbot) 0.5 kg, 1.75 mm				3 und
+  * Dremel tool (WEN 2307 Variable Speed Rotary Toolkit)		1 und
+  * Resistor kit (500 resistors)						1 und
+  * 0Ω, 1.5Ω, 4.7Ω, 10Ω, 47Ω
+  * 110Ω, 220Ω, 330Ω, 470Ω, 680Ω
+  * 1kΩ, 2.2kΩ, 3.3kΩ, 4.7kΩ, 10kΩ
+  * 22kΩ, 47kΩ, 100kΩ, 330kΩ, 1MΩ
+* Raspberry Pi Starter Kit						1 und
+  * 1 x Raspberry Pi 2 - Model B
+  * 1 x Kingston 8GB microSDHC ( Class 10 ) Flash Card SDC10/8GB
+  * 1 x Raspberry Pi FAST Mini Wifi USB Adapter 150Mbps Dongle
+  * 1 x Wall Adapter Power Supply - 5V DC 2A (USB Micro-B)
+  * 1 x HDMI Cable - 6'
+  * 1 x T-Shaped GPIO to Breadboard Interface Board
+  * 1 x 4x4 KeyPad
+  * 1 x Slim Case
+  * Keyboard HDMI								1 und
+  * Mouse									1 und
+* Cinta azul									1 und
+* Display unit HDMI								1 und
+* Sparkfun Beginner Tool Kit						1 und
+  * Soldering iron 30W
+  * Soldering iron stand
+  * Solder wick #2, 5 feet
+  * Solder lead-free 15 gram tube
+  * Digital multimeter
+  * Flush cutters
+  * Wire stripper
+  * Screwdriver
+  * Safety glasses
+  * Wire stripper
+  * Screwdriver
+  * Safety glasses
+* Makey Makey	 Starter Kit						1 und
+  * 1 x MaKey MaKey HID Board
+  * 1 x Alligator Clip Pack
+  * 1 x Mini-USB Cable
+
+
 <a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/"><img alt="Licencia de Creative Commons" style="border-width:0" src="https://i.creativecommons.org/l/by-nc/4.0/88x31.png" /></a><br />Este obra está bajo una <a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/">licencia de Creative Commons Reconocimiento-NoComercial 4.0 Internacional</a>.
