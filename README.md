@@ -23,7 +23,7 @@ El MaKernel resuelve la educación a través de la comunidad, al facilitar objet
 
 ##Contenidos
 
-Es adaptable a necesidades, permiten expandir su contenido, la caja es simple y con el doble propósito de contener y convertirse en mesa de trabajo.
+Es adaptable a necesidades, permiten expandir su contenido, la caja es simple y con el doble propósito de contener y convertirse en mesa de trabajo. Los contendios pueden variar dependiendo de la disponibilidad y de las necesidades.
 
 * Dual purpose box (armario/mesa)					1 und
 * Printrbot Play 3D Printer							1 und
