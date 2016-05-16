@@ -3,4 +3,14 @@
 ##Areas cognitivas
 
 * Computación
- *a 
+* Máquinas
+* Percepción-Expresión
+* Fabricación
+* Interacción
+* Movimiento
+
+
+##Computación
+
+
+##Máquinas
